@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Indra Yogi",
+      "birthday": "1998-08-19",
+      "address": "Jl. Bonto Bulaeng No. 02",
+      "work": "Mahasiswa",
+      "id": 1
+    },
+    {
+      "name": "Fuad Ardiono",
+      "birthday": "1995-02-21",
+      "address": "Jl. Tiga No. 13",
+      "work": "Freelance",
+      "id": 2
+    },
+    {
+      "name": "Fahrizal",
+      "birthday": "1996-09-20",
+      "address": "Jl. MT Haryono 20",
+      "work": "Frontend Developer",
+      "id": 4
+    },
+    {
+      "name": "Fajri Hadi",
+      "birthday": "1998-02-10",
+      "address": "Jl. Lima",
+      "work": "Mahasiswa",
+      "id": 5
+    },
+    {
+      "name": "Cindy Aldita Putri",
+      "birthday": "1997-07-09",
+      "address": "Jl. Dua",
+      "work": "Pengusaha",
+      "id": 6
+    }
+  ]
+}
